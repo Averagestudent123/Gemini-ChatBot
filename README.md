@@ -196,8 +196,6 @@ The backend requires the following environment variables:
 | `PORT` | Backend server port |
 | `KEY` | Google Gemini API key |
 
-> **Important:** Never commit your `.env` file or expose your Gemini API key publicly.
-
 ---
 
 **Built with using React, Node.js, Express.js, and Google Gemini AI.**
