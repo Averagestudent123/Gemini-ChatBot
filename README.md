@@ -200,4 +200,4 @@ The backend requires the following environment variables:
 
 ---
 
-**Built with ❤️ using React, Node.js, Express.js, and Google Gemini AI.**
+**Built with using React, Node.js, Express.js, and Google Gemini AI.**
